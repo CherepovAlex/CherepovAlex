@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Rostelecom.
 - 🌱 I’m currently learning Hexlet Java Course.
-- 👨‍🎓 I graduated from the Kuban University
+- 👨‍🎓 I graduated from the Kuban University.
+- 🤩 I like learning new techologies.
