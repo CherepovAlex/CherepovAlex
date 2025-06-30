@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Hexlet Java Course.
 - 👨‍🎓 I graduated from the Kuban University.
 - 🤩 I like learning new techologies.
+
+Практика
+https://github.com/Hexlet/ru-test-assignments?tab=readme-ov-file - Список тестовых заданий для прокачки
