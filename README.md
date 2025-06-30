@@ -37,3 +37,6 @@ Hexlet-обучение
 Книги
 - https://github.com/archerImagine/HeadFirstJava - К. Сиерра, Б. Бейтс - Изучаем Java (код)
 - https://github.com/PacktPublishing/Java-Coding-Problems/ - А. Леонард - Решение практических задач (код)
+
+Tutorials
+- https://github.com/winterbe/java8-tutorial - Modern Java - A Guide to Java 8
