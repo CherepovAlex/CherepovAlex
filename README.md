@@ -20,8 +20,14 @@ Here are some ideas to get you started:
 Практика
 - https://github.com/Hexlet/ru-test-assignments - Список тестовых заданий для прокачки
 
+Тренажёры
+- https://leetcode.com/ - leetcode-тренажёр
+
 Необходимые навыки
 - https://github.com/bzick/oh-my-backend - список (roadmap) навыков, которые часто требуются backend разработчику web-приложений. 
 
 Hexlet-обучение
 - https://http.hexlet.app/http-api-openapi - Swagger: для тренировок с api
+
+Книги
+- https://github.com/archerImagine/HeadFirstJava - К. Сиерра, Б. Бейтс - Изучаем Java
