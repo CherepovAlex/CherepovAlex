@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 Необходимые навыки
 - https://github.com/bzick/oh-my-backend - список (roadmap) навыков, которые часто требуются backend разработчику web-приложений. 
+
+Hexlet-обучение
+https://http.hexlet.app/http-api-openapi - для тренировок с api
