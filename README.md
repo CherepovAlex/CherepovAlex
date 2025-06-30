@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 - 🤩 I like learning new techologies.
 
 Практика
-https://github.com/Hexlet/ru-test-assignments?tab=readme-ov-file - Список тестовых заданий для прокачки
+- https://github.com/Hexlet/ru-test-assignments - Список тестовых заданий для прокачки
+
+Необходимые навыки
+- https://github.com/bzick/oh-my-backend - список (roadmap) навыков, которые часто требуются backend разработчику web-приложений. 
