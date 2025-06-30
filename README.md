@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 
 Hexlet-обучение
 - https://http.hexlet.app/http-api-openapi - Swagger: для тренировок с api
+- https://ru.hexlet.io/pages/recommended-books - Рекомендуемые книги
+- https://code-basics.com/ - курсы по всем языкам для начинающих
+
+Собеседования
+- https://github.com/enhorse/java-interview/ - вопросы c ответами от Hexlet 
 
 Книги
-- https://github.com/archerImagine/HeadFirstJava - К. Сиерра, Б. Бейтс - Изучаем Java
+- https://github.com/archerImagine/HeadFirstJava - К. Сиерра, Б. Бейтс - Изучаем Java (код)
+- https://github.com/PacktPublishing/Java-Coding-Problems/ - А. Леонард - Решение практических задач (код)
